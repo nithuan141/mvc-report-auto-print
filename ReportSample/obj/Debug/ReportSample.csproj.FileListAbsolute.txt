@@ -1,0 +1,7 @@
+D:\MVC Reportng\ReportSample\ReportSample\bin\ReportSample.dll
+D:\MVC Reportng\ReportSample\ReportSample\bin\ReportSample.pdb
+D:\MVC Reportng\ReportSample\ReportSample\obj\Debug\ResolveAssemblyReference.cache
+D:\MVC Reportng\ReportSample\ReportSample\obj\Debug\RdlCompile.cache
+D:\MVC Reportng\ReportSample\ReportSample\obj\Debug\RdlCompile.compiled
+D:\MVC Reportng\ReportSample\ReportSample\obj\Debug\ReportSample.dll
+D:\MVC Reportng\ReportSample\ReportSample\obj\Debug\ReportSample.pdb
